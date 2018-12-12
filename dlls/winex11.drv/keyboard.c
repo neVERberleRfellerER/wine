@@ -693,7 +693,7 @@ static const char main_key_SK[MAIN_LEN][4] =
 /*** Czech keyboard layout (setxkbmap cz) */
 static const char main_key_CZ[MAIN_LEN][4] =
 {
- ";","+1","\xec""2","\xb9""3","\xe8""4","\xf8""5","\xbe""6","\xfd""7","\xe1""8","\xed""9","\xe9""0","=%","\xb4\xb7",
+ ";","+1","\xec""2","\x9a""3","\xe8""4","\xf8""5","\x9e""6","\xfd""7","\xe1""8","\xed""9","\xe9""0","=%","\xb4\xb7",
  "qQ","wW","eE","rR","tT","zZ","uU","iI","oO","pP","\xfa/",")(",
  "aA","sS","dD","fF","gG","hH","jJ","kK","lL","\xf9\"","\xa7!","\xa8'",
  "yY","xX","cC","vV","bB","nN","mM",",?",".:","-_",
